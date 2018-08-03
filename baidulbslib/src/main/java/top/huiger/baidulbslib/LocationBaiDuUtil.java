@@ -1,4 +1,4 @@
-package top.huiger.baidulbs;
+package top.huiger.baidulbslib;
 
 import android.Manifest;
 import android.app.Activity;
